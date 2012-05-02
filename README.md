@@ -2,6 +2,10 @@
 
 First attempt at creating a game in C++ with the SDL gaming library.
 
+# Build #
+ 
+Simply run make in the Release directory and then play the game :D
+
 # Credit where credit is due #
 
 Main structure of the game is from the following excellent tutorials
